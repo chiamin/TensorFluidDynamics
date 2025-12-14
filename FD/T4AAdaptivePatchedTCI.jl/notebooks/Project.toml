@@ -1,0 +1,25 @@
+[deps]
+CairoMakie = "13f3f980-e62b-5c42-98c6-ff1f3baf88f0"
+ITensors = "9136182c-28ba-11e9-034c-db9fb085ebd5"
+QuanticsGrids = "634c7f73-3e90-4749-a1bd-001b8efc642d"
+Revise = "295af30f-e4ad-537b-8983-00126c2a3abe"
+T4AAdaptivePatchedTCI = "36ff05ac-192f-4444-92c7-2a2992a7023b"
+T4AITensorCompat = "864b39ca-388c-4f43-a593-a1076cf4b253"
+T4APartitionedTT = "7ada5264-53d5-494a-9572-4199565888e0"
+T4AQuantics = "99202d80-6772-4c79-995b-f2660cf2bd6d"
+T4AQuanticsTCI = "ef09ec98-57a2-49a0-bf0b-86b55a3d9051"
+T4ATensorCI = "14428447-6903-48c7-83df-f2cb08af9918"
+
+[compat]
+T4AITensorCompat = "0.8"
+T4APartitionedTT = "0.8"
+T4AQuantics = "0.6"
+T4ATensorCI = "0.10"
+
+[extras]
+Aqua = "4c88cf16-eb10-579e-8560-4a9242c79595"
+HubbardAtoms = "4f3da25b-ea28-4d4f-a81f-380d3f5e56a6"
+ITensors = "9136182c-28ba-11e9-034c-db9fb085ebd5"
+JET = "c3a54625-cd67-489e-a8e7-0a5a0ff4e31b"
+QuanticsGrids = "634c7f73-3e90-4749-a1bd-001b8efc642d"
+Random = "9a3f8284-a2c9-5f02-9a11-845980a1fd5c"
