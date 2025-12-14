@@ -55,7 +55,7 @@ ordering = :interleaved          # :fused_xy, :fused_yx, or :interleaved
 #### 3. Visualize Results
 
 ```bash
-python plot_errors_from_file.py f_t1e-8_errors.h5
+python plot_errors_from_file.py
 ```
 
 This generates:
